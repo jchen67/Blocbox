@@ -197,8 +197,8 @@ width: 970px;
  header .hero img {
    display: block;
    margin:3em auto 0;
+   width: 100%;
  }
-
 
  /* BUTTONS */
  .btn {
