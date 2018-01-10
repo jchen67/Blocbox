@@ -639,3 +639,7 @@ width: 970px;
   line-height: 18px;
   margin:5px 0 0;
 }
+
+ .left-nav .active {
+ background-color: #e6f7ff;
+}
